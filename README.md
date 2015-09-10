@@ -1,2 +1,2 @@
 # Beemo
-Beemo stack for Go developers. Yeoman + Go + AngularJS in one handy generator.
+Beemo stack for Go developers. Yeoman + Gin + Gorm + AngularJS in one handy generator.
